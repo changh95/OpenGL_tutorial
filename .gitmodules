@@ -1,0 +1,3 @@
+[submodule "src/7.TextureMapping/stb"]
+	path = src/7.TextureMapping/stb
+	url = https://github.com/nothings/stb

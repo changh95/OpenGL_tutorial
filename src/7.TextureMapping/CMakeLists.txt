@@ -12,7 +12,7 @@ set(HEADER_FILES
         Shader.h
         Window.h
         Camera.h
-        stb_image.h
+        stb/stb_image.h
         Texture.h
         )
 
